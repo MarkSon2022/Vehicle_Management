@@ -1,0 +1,4 @@
+Car,0004,Hyundai Accent,White,23860,Hyundai,Travel,2021
+Motorbike,0001,Honda Moove,Gray Black,1500,Honda,136,true
+Motorbike,0003,Honda Vision,Red,1333,Honda,98,false
+Car,0002,Fortuner,Blue,65000,Toyota,Sport,2022
